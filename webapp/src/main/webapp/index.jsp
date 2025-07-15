@@ -29,7 +29,7 @@
   </div>
 
   <p>By this you got to know about the final decision <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="registerbtn">Register here for sure</button>
   </div>
 
   <div class="container signin">
